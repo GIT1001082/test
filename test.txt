@@ -1,1 +1,1 @@
-This is a test file to check git push. Some update has been done.
+This is a test file to check git push. 
